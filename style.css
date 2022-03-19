@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-family: Georgia;
+    font-style: normal;
+    font-weight: 300;
+    color: blue;
+}
+
+h4{
+    font-family:'Times New Roman';
+    font-style: bold;
+    color: orange;
+}
+
+#camera{
+    width: 500px, 400px;
+    border-color: skyblue;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: Red;
+}
+
+img{
+    width: 500px, 400px;
+    border-radius: 1;
+    padding: 2;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+img:hover{
+    border-radius: 140px;
+}
